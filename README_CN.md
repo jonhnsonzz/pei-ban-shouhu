@@ -49,6 +49,8 @@
 
 ## 🚀 快速开始
 
+**🌐 在线体验：** https://jonhnsonzz.github.io/pei-ban-shouhu/
+
 这是静态落地页，无需安装。
 
 **本地查看：** 直接用浏览器打开 `index.html`
