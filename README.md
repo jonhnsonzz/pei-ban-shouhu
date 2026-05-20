@@ -49,6 +49,8 @@ You've heard stories: elderly patients wandering alone in corridors, struggling 
 
 ## 🚀 Quick Start
 
+**🌐 Live Demo:** https://jonhnsonzz.github.io/pei-ban-shouhu/
+
 This is a static landing page. No installation needed.
 
 **To view:** Open `index.html` in any browser.
