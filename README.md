@@ -1,40 +1,106 @@
-# 陪诊守护
+# 🏥 AccompanyGuard — Elderly Hospital Accompanying Service
 
-> 让子女安心，让父母就医无忧
+**No ads · No payment required · Real human companion**
 
-成都三甲医院陪诊服务平台，专注慢病复查 / 肿瘤专科 / 异地就医场景。
-
-**在线访问**：https://jonhnsonzz.github.io/pei-ban-shouhu/
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
 
-## 产品定位
+## 😰 The Problem
 
-**用户**：子女在外地的空巢老人家庭
-**核心痛点**：子女请假成本高（300-500元/天），父母独自就医难
-**核心价值**："让子女安心"而非"陪老人看病"——情感外包，不是跑腿服务
+You're living in a different city. Your parents are getting older.
+When they need to go to the hospital — for a check-up, for bad news, for a difficult diagnosis —
+you can't be there.
 
-## 差异化
+You've heard stories: elderly patients wandering alone in corridors, struggling to communicate with doctors, too proud to ask for help.
 
-| 维度 | 传统陪诊 | 陪诊守护 |
-|------|---------|---------|
-| 定位 | 跑腿服务 | 情感陪伴 |
-| 风控 | 无 | 职业险 + 免责协议 + 实名认证 |
-| 透明度 | 黑盒 | 实时位置共享 + 子女可沟通 |
-| 评价体系 | 形同虚设 | 数据驱动 |
+**You worry. Every single day.**
 
-## 三大服务
+---
 
-- **慢病复查** — 400元/次（最适合起步）
-- **肿瘤专科** — 800元/次
-- **会员季卡** — 1600元/季
+## ✨ Features
 
-## MVP 路径
+- 🎯 **One-tap appointment** — Leave your contact, we'll reach out within 24h
+- 👩‍⚕️ **Professional escorts** — Trained accompanying staff, not random strangers
+- 🏥 **Full hospital coverage** — All major hospitals in Beijing/Tianjin
+- 💊 **Medication management** — Help organizing prescriptions and follow-ups
+- 📱 **Real-time updates** — Get photos and status updates during the visit
+- 🔒 **Verified & Insured** — All escorts background-checked and insured
 
-- 月1：验证付费意愿（小红书/抖音内容获客）
-- 月2-3：验证复购（慢病建档 + 会员制）
-- 月4-6：积累数据壁垒（老人画像 × 陪诊师画像）
+---
 
-## 技术栈
+## 📱 How It Works
 
-纯静态页面，无后端，部署在 GitHub Pages。
+1. **Fill the form** → Tell us about the patient and appointment
+2. **We contact you** → Confirm details within 24 hours via WeChat
+3. **We meet at hospital** → Professional escort picks up the patient
+4. **You get updates** → Photos + status throughout the visit
+5. **Report delivered** → Full visit summary sent to you after
+
+---
+
+## 🔒 Privacy
+
+- **No account required** — No login, no data stored on servers
+- **Direct WeChat contact** — All communication is peer-to-peer
+- **Data minimization** — We only collect what's needed to arrange the service
+
+---
+
+## 🚀 Quick Start
+
+This is a static landing page. No installation needed.
+
+**To view:** Open `index.html` in any browser.
+
+**To deploy:**
+```bash
+# Fork and enable GitHub Pages
+# Settings → Pages → Source: main branch
+```
+
+**To customize:**
+```bash
+# Edit the HTML/CSS/JS files directly
+# No build tools required
+```
+
+---
+
+## 📂 Project Structure
+
+```
+pei-ban-shouhu/
+├── index.html      # Main landing page
+├── README.md       # English version
+├── README_CN.md    # 中文说明
+└── LICENSE         # MIT License
+```
+
+---
+
+## 💡 Philosophy
+
+**What we do:** Connect elderly patients with professional escorts so their children can stop worrying.
+
+**What we don't do:** We are NOT a medical service. We don't give medical advice, diagnose conditions, or replace family care.
+
+---
+
+## 🤝 Contributing
+
+Contributions welcome! If you have suggestions for improving the service description, page design, or want to add a language version — feel free to open an issue or PR.
+
+**Ways to contribute:**
+- 🌐 Translate to more languages
+- 🎨 Improve page design
+- 📝 Better copy for trust-building sections
+- 🐛 Report issues with the page
+
+---
+
+## 📄 License
+
+MIT License — free to use, including commercially.
+
+[中文说明](README_CN.md)
