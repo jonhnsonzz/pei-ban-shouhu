@@ -106,3 +106,12 @@ Contributions welcome! If you have suggestions for improving the service descrip
 MIT License — free to use, including commercially.
 
 [中文说明](README_CN.md)
+
+---
+
+## 🔧 后端应用
+
+陪诊守护的完整 Flask 后端应用在 👉 **[companion-care](https://github.com/jonhnsonzz/companion-care)**（需 Python 环境部署）
+
+- **pei-ban-shouhu** — 静态演示页（本仓库，GitHub Pages 直接访问）
+- **companion-care** — Flask 后端应用（含智能匹配、复诊提醒等功能）
